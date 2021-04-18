@@ -1,4 +1,3 @@
-// 체육복
 function solution(n, lost, reserve) {
     let student = {};
     let res = 0;
